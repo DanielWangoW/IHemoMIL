@@ -3,7 +3,7 @@
 
 #  IHemoMIL
 
-This repo contains the PyTorch implementation of IHemoMIL in the following paper: "**Towards Interpretable Hemodynamic Fluctuations of Photoplethysmography with Ranking-based Multi-Instance Learning**" (Under Review), which is a method that leverages weakly-supervised multiple instance learning and ranking-based aggregation to effectively recognize hemodynamic fluctuations within PPG waveforms.
+This repo contains the PyTorch implementation of IHemoMIL in the following paper: "**xxx**" (Under Review), which is a method that leverages weakly-supervised multiple instance learning and ranking-based aggregation to effectively recognize hemodynamic fluctuations within PPG waveforms.
 
 <p align="center">
     <img src="https://image-oss-danielwangow.oss-cn-shanghai.aliyuncs.com/github-extern/IHemoMIL-Concept.png" alt="IHemoMIL Concept">
