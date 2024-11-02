@@ -40,7 +40,7 @@ To use the models and algorithms in this project, refer to the example notebooks
 * **checkpoint** - Contains the weight files and trained models. 
 * **data** - Contains datasets.
 * **ihemomil** - Includes the core algorithms with data processing, ihemomil backbone, and pooling method scripts.
-* **notebooks** - Jupyter notebooks for experiments and interpretable analysis.
+* **notebooks** - Jupyter notebooks for experiments and interpretable analysis (**Main Results can be cheack in notebooks/IHemoMIL_visualization.ipynb**).
 * **training scripts** - train.py
 
 ## Dependencies
